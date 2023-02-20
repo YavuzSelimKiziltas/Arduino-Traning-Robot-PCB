@@ -45,6 +45,6 @@
  ### Bottom Layer of the 2D PCB Board:
  ![banner resmi](https://github.com/YavuzSelimKiziltas/Arduino-Traning-Robot-PCB/blob/main/Images/Bottom%20Layer.jpg)
   ### Top Layer of the 3D PCB Board:
- ![banner resmi](https://github.com/YavuzSelimKiziltas/Arduino-Traning-Robot-PCB/blob/main/Images/Top%20Layer.jpg)
+ ![banner resmi](https://github.com/YavuzSelimKiziltas/Arduino-Traning-Robot-PCB/blob/main/Images/Top%20Layer%203D.jpg)
  ### Bottom Layer of the 3D PCB Board:
- ![banner resmi](https://github.com/YavuzSelimKiziltas/Arduino-Traning-Robot-PCB/blob/main/Images/Bottom%20Layer.jpg)
+ ![banner resmi](https://github.com/YavuzSelimKiziltas/Arduino-Traning-Robot-PCB/blob/main/Images/Bottom%20Layer%203D.jpg)
